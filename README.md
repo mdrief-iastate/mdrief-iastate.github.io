@@ -2,7 +2,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <title>Jack Goldsworth</title>
+    <title>Matt Rief</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link rel="stylesheet" href="style/style.css"/>
@@ -34,20 +34,17 @@
         </div>
     </nav>
 
-    <h1 class="big-blue-text main-text">Jack Goldsworth</h1>
+    <h1 class="big-blue-text main-text">Matt Rief</h1>
     <div style="text-align: center">
         <p class="secondary-text"
            style="display: inline-block; width: 50%; text-align: left; font-size: 20px; color: #ffffff;">
-            I am software developer that loves solving problems and learning new things.
-            Currently, I am a Senior at Iowa State University majoring in Software Engineering. I fell in love with
-            programming when I was fourteen while making Minecraft plugins, and I decided to turn my hobby into a
-            career.
+            I am a Senior at Iowa State University majoring in Electrical Engnineering.
         </p>
     </div>
     <div class="center" style="margin-top: 27vh">
-        <a href="https://github.com/JackGoldsworth"><img class="hover" src="images/github-large.png"
+        <a href="https://github.com/mdrief-iastate"><img class="hover" src="images/github-large.png"
                                                          style="height: 120px; width: 120px; margin: 1vw;"></a>
-        <a href="https://www.linkedin.com/in/jack-goldsworth-38605816b/"><img class="hover"
+        <a href="https://www.linkedin.com/in/matthew-r-30905816b/"><img class="hover"
                                                                               src="images/linkedin.png"
                                                                               style="height: 107px; width: 107px;"></a>
         <a href="photos.html"><img class="hover"
@@ -67,14 +64,14 @@
                 <div class="card-body">
                     <h5 class="card-title">NetApp - Software Engineer Intern</h5>
                     <p class="card-text">
-                        Software Engineer Intern <strong>(May 21' - Present)</strong> - Worked as a Software Engineer on the NetApp Storage and Media Engineering Tools Team.
+                        Systems Engineering Intern <strong>(May 22' - Present)</strong> - Worked as a Systems Engineer on the BAE Systems miniturized gps receiver team in Cedar Rapids.
                     </p>
                 </div>
                 <div class="card-footer">
                     <small class="text-muted">
                         <ul class="experience-list">
                             <li>
-                                Developed an application that will be used to reserve hard-drive testing systems using GraphQL, Django, Python, React, TypeScript, and Grommet-UI.
+                                Coming soon.
                             </li>
                         </ul>
                     </small>
@@ -85,7 +82,7 @@
                 <img class="card-img-top" src="images/moo/moo.svg" style="background-color: #ffffff"
                      alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Mutual of Omaha - Site Reliability Engineer Intern</h5>
+                    <h5 class="card-title">Scripps Institute of Oceanagraphy - Engineering Aide</h5>
                     <p class="card-text">
                         Site Reliability Engineering Intern <strong>(Aug 20' - May 21')</strong> -
                         Worked as a full-stack developer on Mutual of Omaha's Site Reliability team.</p>
